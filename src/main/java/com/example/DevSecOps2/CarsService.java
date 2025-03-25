@@ -15,6 +15,8 @@ public class CarsService {
         cars.add(car);
         car = new Car("CC33DD", "peugeot", 500);
         cars.add(car);
+        car = new Car("EE44FF", "renault", 200);
+        cars.add(car);
     }
 
 
